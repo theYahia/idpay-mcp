@@ -1,7 +1,7 @@
 {
   "name": "@theyahia/idpay-mcp",
-  "version": "1.0.0",
-  "description": "MCP server for IDPay payment gateway (Iran)",
+  "version": "1.0.1",
+  "description": "MCP server for IDPay — payment gateway, invoicing (Iran)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
@@ -44,7 +44,8 @@
     "idpay",
     "iran-api",
     "payments",
-    "typescript"
+    "typescript",
+    "api"
   ],
   "license": "MIT",
   "repository": {
